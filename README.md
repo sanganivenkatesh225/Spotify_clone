@@ -4,7 +4,7 @@ Spotify clone is the clone of spotify website music player in which you can play
 
 ## Working Web App can be found here
 
-https://spotify-clone-webb.vercel.app/
+https://sanganivenkatesh225.github.io/Spotify_clone/
 
 ## Tech Stack used is
 
@@ -23,7 +23,7 @@ https://spotify-clone-webb.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Chirag047/Spotify-Clone.git
+  git clone https://github.com/sanganivenkatesh225/Spotify_clone
 ```
 Go to the project directory
 
@@ -38,7 +38,7 @@ Start the development by running file index.html with live server extension.
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Chirag_Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangani-venkatesh/)
-[![GitHub](https://img.shields.io/badge/Chirag_Nagar-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sanganivenkatesh225)
+[![linkedin](https://img.shields.io/badge/Venkatesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangani-venkatesh/)
+[![GitHub](https://img.shields.io/badge/Venkatesh-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sanganivenkatesh225)
 
 
